@@ -5,12 +5,14 @@
 - Authentification, rôles, utilisateurs, mots de passes
 - Stockage des informations dans la base de données
 - Configuration de Spring Security avec la base de données de sécurité
+- - # Pas d'encryptage : texte simple
 
 # Basic manipulations with Spring Security  
 - Maven project
 - Authentification, roles, users, passwords
 - Security data information stored in database
 - Spring security database authentication
+- - # No operation for encryption : plain text
 
 # NOTE :
 - Pour tester l'application, les noms d'utilisateurs admis sont : "employe", "manager", "admin" et le mot de passe est "test123" pour tous les utilisateurs
