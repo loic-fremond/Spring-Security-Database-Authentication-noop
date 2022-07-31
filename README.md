@@ -12,6 +12,6 @@
 - Security data information stored in database
 - Spring security database authentication
 
-#NOTE :
+# NOTE :
 - Pour tester l'application, les noms d'utilisateurs admis sont : "employe", "manager", "admin" et le mot de passe est "test123" pour tous les utilisateurs
 - To test the app, permitted user names are: "employe", "manager", "admin" and password is "test123" for all users
