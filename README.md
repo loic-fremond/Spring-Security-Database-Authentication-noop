@@ -7,7 +7,7 @@
 - Configuration de Spring Security avec la base de données de sécurité
 - - # Pas d'encryptage : texte simple
 
-# Basic manipulations with Spring Security  
+# Database authentication with Spring Security  
 - Maven project
 - Authentification, roles, users, passwords
 - Security data information stored in database
